@@ -1,3 +1,5 @@
-import Archetypes from './Archetype';
+import Archetype from './Archetype';
+import Mage from './Mage';
 
-export default Archetypes;
+export default Archetype;
+export { Mage };
