@@ -1,6 +1,6 @@
 import { EnergyType } from '../Energy';
 
-abstract class Race {
+abstract class Archetype {
   private _name: string;
   private _special: number;
   private _cost: number;
@@ -30,4 +30,4 @@ abstract class Race {
   }
 }
   
-export default Race;
+export default Archetype;
