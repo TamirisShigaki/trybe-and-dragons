@@ -1,4 +1,10 @@
-# 🚧 README em construção 🚧
+# 🚧 Readme em construção 🚧
+
+## 30 – Projeto Trybe and Dragons
+
+## Contexto
+
+Projeto pessoal desenvolvido na Trybe, onde tive que criar classes, interfaces e tipos para um jogo de RPG estilo Dungeons and Dragons utilizando príncipos de POO e Solid.
 
 <!-- Olá, Tryber!
 
